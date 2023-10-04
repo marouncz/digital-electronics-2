@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\lab1"
+		},
+		{
+			"name": "lab2-gpio_library",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"arduino.h": "c"
+		}
+	}
+}
