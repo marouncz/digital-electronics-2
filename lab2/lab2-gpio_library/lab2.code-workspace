@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "lab2-gpio_library",
+			"path": "\\\\dest.feec.vutbr.cz\\home\\stud\\240598\\DE2\\digital-electronics-2\\lab2\\lab2-gpio_library"
+		},
+		{
+			"name": "lab2-gpio_library",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"delay.h": "c"
+		}
+	}
+}
